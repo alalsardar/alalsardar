@@ -1,4 +1,4 @@
-👋 <h3>Hi There, I’m Alal Sardar</h3>
+<h3>👋 Hi There, I’m Alal Sardar</h3>
 
 Web Designer | Web Developer
 
