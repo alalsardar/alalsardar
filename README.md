@@ -5,7 +5,7 @@
 👀 I am passionate about designing and developing user-friendly websites, specializiing in mostly front-end development PHP, Laravel and WordPress. I have all the skills to create a new high quality website or improve existing websites for individuals and organisations, using the latest techniques and trends. I focus on modern and responsive website solutions that are easy to update by the client. 
 
 <h5>💻 Languages and Tools: 🛠️</h5>
-Git | Github | HTML5 | CSS3 | SASS | Media Query | JavaScript | J-Query | Twitter Bootstrap | Vue JS | PHP | WordPress | Laravel
+Git | Github | HTML5 | CSS3 | SASS | Media Query | JavaScript | J-Query | Twitter Bootstrap | PHP | WordPress | Laravel
 
 
 
